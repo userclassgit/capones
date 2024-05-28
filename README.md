@@ -1,6 +1,9 @@
 # Capones
 Welcome to Capones, an online clothing store built with React and utilizing the Fake Store API.
 
+## Demo
+Check out the live demo of Capones **[HERE](https://capones.netlify.app/)**.
+
 ## Project Overview
 Capones is an online store where users can browse, sort, and purchase clothing items. The project includes four main pages: Home, Product, Cart, and NotFound. The products are fetched from the Fake Store API, providing a diverse range of items.
 
@@ -25,6 +28,3 @@ Products are fetched from the [Fake Store API](https://fakestoreapi.com/), which
 - [MJ](https://github.com/userclassgit)
 - [Gabriel Linski](https://github.com/gl-school)
 - [Lu Liu](https://github.com/LL-fullstack)
-
-## Demo
-Check out the live demo of Capones [here](https://capones.netlify.app/).
